@@ -27,7 +27,7 @@
 
 ## Automation tests
  - Unit tests 
-   > Code coverage information
+   > Code coverage information.
  - Integration tests
    > Details about the test cases and coverage
 
